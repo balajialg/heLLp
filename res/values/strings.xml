@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Help!</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="menu_settings">Settings</string>
+    <string name="app_title">HeLLp!</string>
+    <string name="app_tag">-Just keep your eyes open!</string>
+    <string name="take_pic">Take Pic!</string>
+    <string name="post">Post</string>
+    <string name="desc">Add a description!</string>
+    
+	<string-array name="issues">
+	    <item>-Select-</item>
+		<item>Child Labour</item>
+		<item>Child Abuse</item>
+		<item>Aged and Homeless</item>
+		<item>Eve Teasing</item>
+		<item>Pollution</item>
+	</string-array>
+
+</resources>
